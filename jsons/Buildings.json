@@ -48,6 +48,7 @@
 		"cost": 1,
 		"culture":1,
 		"uniques":[
+			"Instantly provides [50] [Mist Timer]",
 			"Unsellable",
 			"Unbuildable"
 		]
