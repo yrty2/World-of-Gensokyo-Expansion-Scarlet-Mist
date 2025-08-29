@@ -2,6 +2,6 @@
   {
     "name": "Mist Timer",
 		"resourceType": "Strategic",
-		"uniques": ["Excluded from map editor","Cannot be traded","Stockpiled"/*,"Not shown on world screen"*/],
+		"uniques": ["Excluded from map editor","Cannot be traded","Stockpiled","Not shown on world screen"],
   }
 ]
