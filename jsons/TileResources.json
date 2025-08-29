@@ -1,18 +1,1 @@
-[
-  {
-		"name": "Scarlet Mist",
-		"resourceType": "Luxury",
-		"uniques": ["[-5 Happiness]","Provides [1] [Timer1]","Excluded from map editor","Cannot be traded",
-		"Doesn't generate naturally",
-		"[-1 Food] from every [Farm] <for [non-[Fated Kingdom]] Civilizations>",
-		"[+10]% Strength <when attacking> <for units with [Vampire]> <for [Fated Kingdom] Civilizations>",
-      "A red mist covers Gensokyo, blocking out the sunlight...",
-      "This will continue until the incident is resolved."]
-	},
-	{
-		"name":"Timer1",
-		"resourceType": "Luxury",
-		"uniques": ["Excluded from map editor","Cannot be traded","Stockpiled",
-		"Doesn't generate naturally"]
-	}
-]
+
