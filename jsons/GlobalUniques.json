@@ -2,6 +2,6 @@
   "name": "Global uniques",
   "uniques": [
     "Triggers a [The Scarlet Mist Incident] event <for [Major] Civilizations> <upon turn start> <if [Scarlet Mist] is not constructed> <if [Scarlet Mist Generator] is constructed by anybody>",
-    "Remove [Scarlet Mist] [in this city] <when number of [Mist Timer] is more than [5]> <upon turn start>",
+    "Remove [Scarlet Mist] [in this city] <when number of [Mist Timer] is more than [5]> <upon turn start>"
   ]
 }
