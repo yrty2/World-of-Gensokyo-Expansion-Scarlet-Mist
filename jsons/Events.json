@@ -7,12 +7,12 @@
                   {
                     "text":"The Scarlet Devil Mansion must be explosion to solve that.",
                     "triggeredUniques":["Provides [1] [Scarlet Mist]","Scarlet Mist gives all farm -1 food debuff.","It will be lost after 50 turns or Scarlet Devil Mansion destructed."],
-                    "conditions": ["for [non-[Fated Kingdom]] Civilizations"]
+                    "conditions": ["if [Scarlet Mist Generator] is not constructed"]
                   },
                   {
                     "text":"Just as planned!",
                     "triggeredUniques":["Provides [1] [Scarlet Mist]","Scarlet Mist gives all units a 10% attack bonus.","It will be lost after 50 turns."],
-                    "conditions": ["for [Fated Kingdom] Civilizations"]
+                    "conditions": ["if [Scarlet Mist Generator] is constructed"]
                   }
       ]
 	}
