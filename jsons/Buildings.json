@@ -13,5 +13,14 @@
 			"Great Scientist": 1
 		},
 		"quote": "By generating a large amount of mist, it is possible to block out sunlight, which is a weakness of vampires."
+	},
+	{
+		"name":"Event1",
+		"cost": 1,
+		"uniques": [
+			"Unbuildable",
+			"Unsellable",
+			"Will not be displayed in Civilopedia"
+		]
 	}
 ]
