@@ -23,7 +23,7 @@
                 "choices":[
                   {
                     "text":"This building is worth preserving.",
-                    "uniques":["Gain a free [Scarlet Mist] [in capital]","Gain a free [Scarlet Devil Mansion] [in capital]","Gain a free [Mist under control] [in capital] <with [50]% chance>","Comment [The Scarlet Mist will disappear with 50% chance.]"]
+                    "uniques":["Gain a free [Scarlet Devil Mansion] [in capital]","Gain a free [Mist under control] [in capital] <with [50]% chance>","Comment [The Scarlet Mist will disappear with 50% chance.]"]
                   },
                   {
                     "text":"Boom!",
@@ -31,7 +31,7 @@
                   },
 					{
                     "text":"So, what's in the basement?",
-                    "uniques":["Only available <for [non-[Fraternal Empire]] Civilization>","Gain a free [Scarlet Devil Mansion Ruin] [in capital]","Gain a free [Vampire Hunting] [in capital]","Comment [Permanent 10% attack bonus for all units vs Vampire]"]
+                    "uniques":["Only available <for [non-[Fraternal Empire]] Civilization>","Gain a free [Scarlet Devil Mansion Ruins] [in capital]","Gain a free [Vampire Hunting] [in capital] <hidden from users>","Comment [Permanent 10% attack bonus for all units vs Vampire]"]
                   }
 				]
 	},
@@ -41,7 +41,7 @@
                 "choices":[
                   {
                     "text":"Let's have a party!",
-                    "uniques":["Only available <for [non-[Fated Kingdom]] Civilization>","Empire enters a [1]-turn Golden Age","Empire enters a [9]-turn Golden Age <for [Hakurei Faction] Civilization>","Remove [Scarlet Mist] [in all cities]"]
+                    "uniques":["Only available <for [non-[Fated Kingdom]] Civilization>","Empire enters a [1]-turn Golden Age","Empire enters a [9]-turn Golden Age <for [Hakurei Faction] Civilization>","Remove [Scarlet Mist] [in all cities] <hidden from users>","Remove [Mist under control] [in all cities] <hidden from users>"]
                   }
 				]
 	}
