@@ -2,7 +2,7 @@
   {
 		"name": "Scarlet Mist Generator",
 		"uniqueTo": "Fated Kingdom",
-		"cost": 1,
+		"cost": 1,//200くらい？
 		"isNationalWonder": true,
     "requiredBuilding": "Scarlet Devil Mansion",
 		"uniques": [
