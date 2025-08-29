@@ -1,0 +1,17 @@
+[
+  {
+		"name": "Scarlet Mist Generator",
+		"uniqueTo": "Fated Kingdom",
+		"cost": 1,
+		"isNationalWonder": true,
+    "requiredBuilding": "Scarlet Devil Mansion",
+		"uniques": [
+			"Triggers a [Scarlet Mist Incident] event",
+      "The Scarlet Mist has a negative effect on other civilizations. this ambitious plan will incur their wrath."
+		],
+		"greatPersonPoints": {
+			"Great Scientist": 1
+		},
+		"quote": "By generating a large amount of mist, it is possible to block out sunlight, which is a weakness of vampires."
+	}
+]
