@@ -2,6 +2,7 @@
   "name": "Global uniques",
   "uniques": [
     "Triggers a [The Scarlet Mist Incident] event <for [Major] Civilizations> <upon turn start> <if [Scarlet Mist] is not constructed> <if [Scarlet Mist Generator] is constructed by anybody>",
+    "Instantly provides [50] [Mist Timer] <for [Major] Civilizations> <upon turn start> <if [Mist under control] is constructed by anybody>",
     "Triggers a [Scarlet Devil Mansion Occupied] event <upon turn start> <if [Scarlet Mist Generator] is constructed> <for [non-[Fated Kingdom] Civilization]>",
     "Triggers a [Returning to normal] event <when number of [Mist Timer] is more than [50]> <upon turn start>"
   ]
