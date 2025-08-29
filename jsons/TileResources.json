@@ -1,1 +1,7 @@
-
+[
+  {
+    "name": "Mist Timer",
+		"resourceType": "Luxury",
+		"uniques": ["Excluded from map editor","Cannot be traded","Stockpiled","Not shown on world screen"],
+  }
+]
