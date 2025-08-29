@@ -2,9 +2,9 @@
   {
 		"name": "Scarlet Mist Generator",
 		"uniqueTo": "Fated Kingdom",
-		"cost": 1,//200くらい？
+		"cost": 300,
 		"isNationalWonder": true,
-    //"requiredBuilding": "Scarlet Devil Mansion",
+	    "requiredBuilding": "Scarlet Devil Mansion",
 		"uniques": [
 			"Triggers a [The Scarlet Mist Incident] event",
       "The Scarlet Mist has a negative effect on other civilizations. this ambitious plan will incur their wrath."
@@ -25,6 +25,22 @@
       "This will continue until the incident is resolved.",
 			"Unbuildable",
 			"Unsellable"
+		]
+	},
+	{
+		"name":"Scarlet Mist Event Complete",
+		"cost":1,
+		"uniques":[
+			"Unbuildable",
+			"Unsellable"
+		]
+	},
+	{
+		"name":"Scarlet Devil Mansion Ruins",
+		"cost": 1,
+		"culture":1,
+		"uniques":[
+			"Unbuildable"
 		]
 	}
 ]
