@@ -18,6 +18,7 @@
 		"name":"Event1",
 		"cost": 1,
 		"uniques": [
+			"Provides [1] [Scarlet Mist]",
 			"Unbuildable",
 			"Unsellable",
 			"Will not be displayed in Civilopedia"
