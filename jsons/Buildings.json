@@ -18,7 +18,7 @@
 		"name":"Scarlet Mist",
 		"cost": 1,
 		"uniques": [
-			"Provides [1] [Mist Timer]",
+			"Instantly provides [1] [Mist Timer] <upon turn end>",
 			"Remove [Scarlet Mist] [in this city] <when number of [Mist Timer] is more than [5]> <upon turn start>",
 			"[-1 Food] from every [Farm] <for [non-[Fated Kingdom]] Civilizations>",
 		"[+10]% Strength <when attacking> <for units with [Vampire]> <for [Fated Kingdom] Civilizations>",
