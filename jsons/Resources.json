@@ -4,6 +4,8 @@
 		"resourceType": "Strategic",
 		"revealedBy": "Diplomacy",
 		"uniques": ["Excluded from map editor","Cannot be traded",
+		"[-1 Food] from every [Farm] <for [non-[Fated Kingdom]] Civilizations>",
+		"[+10]% Strength <when attacking> <for units with [Vampire]> <for [Fated Kingdom] Civilizations>",
       "A red mist covers Gensokyo, blocking out the sunlight...",
       "This will continue until the incident is resolved."]
 	}
