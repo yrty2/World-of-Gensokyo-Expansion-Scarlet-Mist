@@ -3,7 +3,6 @@
 		"name": "Scarlet Mist Generator",
 		"uniqueTo": "Fated Kingdom",
 		"cost": 300,
-		"isNationalWonder": true,
 	    "requiredBuilding": "Scarlet Devil Mansion",
 		"uniques": [
 			"Triggers a [The Scarlet Mist Incident] event",
