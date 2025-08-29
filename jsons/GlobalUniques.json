@@ -2,6 +2,6 @@
   "name": "Global uniques",
   "uniques": [
     "Triggers a [The Scarlet Mist Incident] event <for [Major] Civilizations> <upon turn start> <if [Event1] is not constructed> <if [Scarlet Mist Generator] is constructed by anybody>",
-    "Consumes [1] [Scarlet Mist] <when number of [Timer1] is equal to [5]> <upon turn start>"
+    "Consumes [1] [Scarlet Mist] <when number of [Iron] is equal to [5]> <upon turn start>"
   ]
 }
