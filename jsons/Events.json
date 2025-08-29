@@ -27,11 +27,21 @@
                   },
                   {
                     "text":"Boom!",
-                    "uniques":["Only available <after discovering [Gunpowder]>","Gain a free [Scarlet Devil Mansion Ruin] [in capital]","Gain a free [Mist under control] [in capital]","Comment [The Scarlet Mist will disappear.]"]
+                    "uniques":["Only available <after discovering [Gunpowder]>","Gain a free [Scarlet Devil Mansion Ruins] [in capital]","Gain a free [Mist under control] [in capital]","Comment [The Scarlet Mist will disappear.]"]
                   },
 					{
                     "text":"So, what's in the basement?",
                     "uniques":["Only available <for [non-[Fraternal Empire]] Civilization>","Gain a free [Scarlet Devil Mansion Ruin] [in capital]","Gain a free [Vampire Hunting] [in capital]","Comment [Permanent 10% attack bonus for all units vs Vampire]"]
+                  }
+				]
+	},
+	{
+		"name":"Returning to normal",
+		"text": "The Scarlet Mist that had covered the sky of Gensokyo disappeared, and peace returned to Gensokyo.",
+                "choices":[
+                  {
+                    "text":"Let's have a party!",
+                    "uniques":["Only available <for [non-[Fated Kingdom]] Civilization>","Empire enters a [1]-turn Golden Age","Empire enters a [9]-turn Golden Age <for [Hakurei Faction] Civilization>"]
                   }
 				]
 	}
