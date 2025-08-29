@@ -42,5 +42,24 @@
 		"uniques":[
 			"Unbuildable"
 		]
+	},
+	{
+		"name":"Mist under control",
+		"cost": 1,
+		"culture":1,
+		"uniques":[
+			"Unsellable",
+			"Unbuildable"
+		]
+	},
+	{
+		"name":"Vampire Hunting",
+		"cost": 1,
+		"culture":1,
+		"uniques":[
+			"[+10]% Strength <vs [Vampire] units> <when attacking>",
+			"Unsellable",
+			"Unbuildable"
+		]
 	}
 ]
