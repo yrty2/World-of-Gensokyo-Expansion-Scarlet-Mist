@@ -41,7 +41,7 @@
                 "choices":[
                   {
                     "text":"Let's have a party!",
-                    "uniques":["Only available <for [non-[Fated Kingdom]] Civilizations>","Empire enters a [1]-turn Golden Age","Empire enters a [9]-turn Golden Age <for [Hakurei Faction] Civilization>","Remove [Scarlet Mist] [in all cities] <hidden from users>","Remove [Mist under control] [in all cities] <hidden from users>"]
+                    "uniques":["Only available <for [non-[Fated Kingdom]] Civilizations>","Empire enters a [1]-turn Golden Age","Empire enters a [9]-turn Golden Age <for [Hakurei Faction] Civilizations>","Remove [Scarlet Mist] [in all cities] <hidden from users>","Remove [Mist under control] [in all cities] <hidden from users>"]
                   }
 				]
 	}
