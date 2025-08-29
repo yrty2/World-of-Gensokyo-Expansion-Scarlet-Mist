@@ -6,7 +6,6 @@
 		"isNationalWonder": true,
     //"requiredBuilding": "Scarlet Devil Mansion",
 		"uniques": [
-			"Triggers a [The Scarlet Mist Incident] event <for [Major] Civilizations>",
       "The Scarlet Mist has a negative effect on other civilizations. this ambitious plan will incur their wrath."
 		],
 		"greatPersonPoints": {
