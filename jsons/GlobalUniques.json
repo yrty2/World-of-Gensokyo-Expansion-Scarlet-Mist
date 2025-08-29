@@ -1,6 +1,6 @@
 {
   "name": "Global uniques",
   "uniques": [
-    "Triggers a [The Scarlet Mist Incident] event <for [Major] Civilizations> <upon turn start> <if [Scarlet Mist Generator] is constructed by anybody>"
+    "Triggers a [The Scarlet Mist Incident] event <for [Major] Civilizations> <upon turn start> <if [Event1] is not constructed> <if [Scarlet Mist Generator] is constructed by anybody>"
   ]
 }
