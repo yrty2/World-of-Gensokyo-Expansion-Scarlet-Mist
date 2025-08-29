@@ -15,13 +15,15 @@
 		"quote": "By generating a large amount of mist, it is possible to block out sunlight, which is a weakness of vampires."
 	},
 	{
-		"name":"Event1",
+		"name":"Scarlet Mist",
 		"cost": 1,
 		"uniques": [
-			"Provides [1] [Scarlet Mist]",
+			"[-1 Food] from every [Farm] <for [non-[Fated Kingdom]] Civilizations>",
+		"[+10]% Strength <when attacking> <for units with [Vampire]> <for [Fated Kingdom] Civilizations>",
+      "A red mist covers Gensokyo, blocking out the sunlight...",
+      "This will continue until the incident is resolved.",
 			"Unbuildable",
-			"Unsellable",
-			"Will not be displayed in Civilopedia"
+			"Unsellable"
 		]
 	}
 ]
