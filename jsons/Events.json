@@ -1,9 +1,12 @@
 [
-	// Diversifications
 	{
 		"name": "The Scarlet Mist Incident",
                 "text": "Scarlet Mist Incident",
                 "choices":[
+					{
+                    "text":"The Hakurei Shrine Maiden will solve that.",
+                    "uniques":["Only available <for [non-[Fated Kingdom]] Civilizations>","Gain a free [Scarlet Mist] [in capital]","Comment [Scarlet Mist gives all farm -1 food debuff.]","Comment [It will be lost after 50 turns or Scarlet Devil Mansion destructed.]"]
+                  },
                   {
                     "text":"The Scarlet Devil Mansion must be explosion to solve that.",
                     "uniques":["Only available <for [non-[Fated Kingdom]] Civilizations>","Gain a free [Scarlet Mist] [in capital]","Comment [Scarlet Mist gives all farm -1 food debuff.]","Comment [It will be lost after 50 turns or Scarlet Devil Mansion destructed.]"]
@@ -13,5 +16,23 @@
                     "uniques":["Only available <for [Fated Kingdom] Civilizations>","Gain a free [Scarlet Mist] [in capital]","Comment [Scarlet Mist gives all units a 10% attack bonus.]","Comment [It will be lost after 50 turns.]"]
                   }
       ]
+	},
+	{
+		"name":"Scarlet Devil Mansion Occupied",
+		"text": "Scarlet Devil Mansion Occupied!",
+                "choices":[
+                  {
+                    "text":"This building is worth preserving.",
+                    "uniques":["Gain a free [Scarlet Mist] [in capital]","Gain a free [Scarlet Devil Mansion] [in capital]","Gain a free [Mist under control] [in capital] <with [50]% chance>","Comment [The Scarlet Mist will disappear with 50% chance.]"]
+                  },
+                  {
+                    "text":"Boom!",
+                    "uniques":["Only available <after discovering [Gunpowder]>","Gain a free [Scarlet Devil Mansion Ruin] [in capital]","Gain a free [Mist under control] [in capital]","Comment [The Scarlet Mist will disappear.]"]
+                  },
+					{
+                    "text":"So, what's in the basement?",
+                    "uniques":["Only available <for [non-[Fraternal Empire]] Civilization>","Gain a free [Scarlet Devil Mansion Ruin] [in capital]","Gain a free [Vampire Hunting] [in capital]","Comment [Permanent 10% attack bonus for all units vs Vampire]"]
+                  }
+				]
 	}
 ]
