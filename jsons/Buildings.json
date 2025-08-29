@@ -4,9 +4,9 @@
 		"uniqueTo": "Fated Kingdom",
 		"cost": 1,//200くらい？
 		"isNationalWonder": true,
-    "requiredBuilding": "Scarlet Devil Mansion",
+    //"requiredBuilding": "Scarlet Devil Mansion",
 		"uniques": [
-			"Triggers a [Scarlet Mist Incident] event",
+			"Triggers a [Scarlet Mist Incident] event <for [All] Civilizations>",
       "The Scarlet Mist has a negative effect on other civilizations. this ambitious plan will incur their wrath."
 		],
 		"greatPersonPoints": {
